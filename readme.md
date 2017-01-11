@@ -1,4 +1,4 @@
 ## This is my practice repository.
 ---
-* markdown
-* practice
+* markdown‚Ì—ûK
+* git‘€ì‚Ì—ûK
