@@ -1,4 +1,4 @@
-## This is my practice repository.
+﻿## This is my practice repository.
 ---
-* markdown
-* practice
+* markdownの練習
+* git操作の練習
