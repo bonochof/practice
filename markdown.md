@@ -1,4 +1,4 @@
-# Markdown記法まとめ
+﻿# Markdown記法まとめ
 
 ## テキスト装飾
 
@@ -38,11 +38,11 @@
 
 ### 全体挿入
 
-> ```(title)
-
-> (code)
-
-> ```
+```
+```(title)
+(code)
+```
+```
 
 で(ファイル名付き)挿入．
 
@@ -60,17 +60,14 @@
 
 ### Definition型
 
-> <dl>
-
->   <dt>(title1)</dt>
-
->     <dd>(main1)</dd>
-
->   <dt><title2></dt>
-
->     <dd>(main2)</dd>
-
-> </dl>
+```
+<dl>
+  <dt>(title1)</dt>
+    <dd>(main1)</dd>
+  <dt><title2></dt>
+    <dd>(main2)</dd>
+</dl>
+```
 
 のように記述する．
 
