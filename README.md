@@ -1,4 +1,2 @@
 ﻿## This is my practice repository.
----
-* git操作の練習
----
+gitの練習用Repository
